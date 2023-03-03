@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "777a8b7b6f30481ac5adeae8557d4c69",
+  "version.json": "0ccc81c35117324497a595987db4b1a1",
 "splash/img/light-2x.png": "7a9051bfb0e8869c153b02bd8ab964c0",
 "splash/img/dark-4x.png": "80d10348cc3e9a4ff0a6137c2677b678",
 "splash/img/light-3x.png": "f3ba2e9dade2e0150f0643ad65d6f1d3",
@@ -14,9 +14,10 @@ const RESOURCES = {
 "splash/img/light-1x.png": "30e7feb81e4dc2b4b6e62d29c7fab44b",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "48bbb5d859f250ad8f9fc620f98e05f1",
-"index.html": "25e78238bd1b2719dadab87ab2f29b8b",
-"/": "25e78238bd1b2719dadab87ab2f29b8b",
+"index.html": "16e97fc83a4c2dbabc7dfdb322d3432c",
+"/": "16e97fc83a4c2dbabc7dfdb322d3432c",
 "main.dart.js": "f13b3ae3f7bf8ae05ea8386b1276141a",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -50,7 +51,11 @@ const RESOURCES = {
 "assets/assets/sounds/win-end.mp3": "7ed89d27b771cb77ca84553a211085df",
 "assets/assets/sounds/stop.mp3": "ac34492bff4beca6830bc7b08c3b215b",
 "assets/assets/sounds/win-loop.mp3": "a0fcd4524977eb3201f5480422fce719",
-"assets/assets/sounds/pull-slot.mp3": "27804178b3b193e7a60fdea82f1f4607"
+"assets/assets/sounds/pull-slot.mp3": "27804178b3b193e7a60fdea82f1f4607",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
